@@ -1,0 +1,22 @@
+{
+  "name": "LZKit",
+  "version": "0.1.0",
+  "summary": "LZKit is a test lib",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luzhang316@gmail.com/LZKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luzhang316@gmail.com": "zhanglu30@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/luzhang316@gmail.com/LZKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LZKit/Classes/**/*"
+}
